@@ -23,8 +23,9 @@ Tools ini dibuat untuk **developer, bug hunter, dan ethical hacker** agar bisa:
 
 ## 🚀 Cara Penggunaan
 
-### 1. Install Python & Dependencies
-pip install requests beautifulsoup4 colorama
-git clone https://github.com/rezz/scanner.git
+### 1. Install Python & Dependencies 
+```bash
+pip install requests beautifulsoup4 colorama ,
+git clone https://github.com/Krez-code/Tester-website.git
 cd scanner
 python scanner.py https://website-anda.com
